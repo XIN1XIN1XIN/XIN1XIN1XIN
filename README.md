@@ -1,4 +1,4 @@
----------------------------------------|
+
 social medias~~~  
 ---------------------------------------|
 
@@ -8,7 +8,7 @@ telegram: XINSOLOS
 
 roblox: XINSDEATH
 
----------------------------------------|
+
 language,name,etc~   
 ---------------------------------------|
 
@@ -20,7 +20,7 @@ speaking language: english
 
 ![ Alt text](XIN.gif)
 
----------------------------------------|
+
  coming soon tools~~~   
 ---------------------------------------|
 
@@ -30,7 +30,7 @@ working on a discord token gen (i dont know when ill finish it)
 
 and alot more tools coming soon....
 
----------------------------------------|
+
 ending~~~                              
 ---------------------------------------|
 
