@@ -3,7 +3,9 @@ social medias~~~
 ---------------------------------------|
 
 discord: XIN#0002
+
 telegram: XINSOLOS
+
 roblox: XINSDEATH
 
 ---------------------------------------|
@@ -11,7 +13,9 @@ language,name,etc~
 ---------------------------------------|
 
 language: python
+
 name: XIN
+
 speaking language: english
 
 ![ Alt text](XIN.gif)
