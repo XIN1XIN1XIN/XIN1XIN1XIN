@@ -1,4 +1,5 @@
 # ABOUT ME 
+# JOIN MY DISCORD SERVER AS WE WILL HELP YOU WITH A BUNCH OF STUFF AND ALOT MORE THERE! \ https://discord.gg/wsdZPuqMFP
 
 
 social medias~~~  
