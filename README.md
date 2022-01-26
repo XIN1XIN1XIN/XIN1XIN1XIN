@@ -1,5 +1,5 @@
 # ABOUT ME 
-# JOIN MY DISCORD SERVER AS WE WILL HELP YOU WITH A BUNCH OF STUFF AND ALOT MORE THERE! \ https://discord.gg/wsdZPuqMFP
+# JOIN MY DISCORD SERVER! https://discord.gg/wsdZPuqMFP
 
 
 social medias~~~  
@@ -11,7 +11,7 @@ roblox: XINSDEATH
 
 language,name,etc~   
 ---------------------------------------|
-language: python
+coding language: python
 name: XIN
 speaking language: english
 
