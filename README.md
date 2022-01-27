@@ -1,5 +1,6 @@
 # ABOUT ME 
 # JOIN MY DISCORD SERVER! https://discord.gg/wsdZPuqMFP
+# MY GITHUB GROUP ~ https://github.com/XINSCOLAB
 
 
 social medias~~~  
