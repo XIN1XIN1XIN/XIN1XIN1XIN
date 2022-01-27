@@ -1,5 +1,5 @@
 # ABOUT ME 
-# JOIN MY DISCORD SERVER! https://discord.gg/wsdZPuqMFP
+# JOIN MY DISCORD SERVER! https://discord.gg/4cGQxfeWm9
 # MY GITHUB GROUP ~ https://github.com/XINSCOLAB
 # MY SELLIX https://sellix.io/XINSELLS
 
