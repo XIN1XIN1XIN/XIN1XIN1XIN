@@ -1,7 +1,7 @@
 # ABOUT ME 
 # JOIN MY DISCORD SERVER! https://discord.gg/wsdZPuqMFP
 # MY GITHUB GROUP ~ https://github.com/XINSCOLAB
-# MY SELLIX https://sellix.io/XINSDEATH
+# MY SELLIX https://sellix.io/XINSELLS
 
 
 social medias~~~  
