@@ -21,8 +21,8 @@ speaking language: english
 
 my top 3 repo's (CURRENTLY OF JANUARY 28/2022
 ---------------------------------|
-1. https://github.com/XINSDEATH/discord-tools
-2. https://github.com/XINSDEATH/info-grabber
+1. https://github.com/XINSDEATH/XINS-STUB-MAKER
+2. https://github.com/XINSDEATH/discord-tools
 3. https://github.com/XINSDEATH/discord-bots
 
 
