@@ -31,7 +31,6 @@ my top 3 repo's (CURRENTLY OF JANUARY 28/2022
 working on a new tool (better roblox) will be released on january 28!
 working on a discord token gen (i dont know when ill finish it)
 working on a discord token manager (estiamte, will take (1 day-1 week))
-working on a info grabber (will be relased on january 28!)
 and alot more tools coming soon....
 
 
