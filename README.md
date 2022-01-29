@@ -3,6 +3,8 @@
 # MY GITHUB GROUP ~ https://github.com/XINSCOLAB
 # MY SELLIX https://sellix.io/XINSELLS
 
+**all of my tools require python so dont think u can run a .py file without python i just dont say its required because its retarded to run a .py without python.**
+
 
 social medias~~~  
 ---------------------------------------|
