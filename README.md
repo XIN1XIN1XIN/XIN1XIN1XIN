@@ -28,12 +28,15 @@ my top 3 repo's (CURRENTLY OF JANUARY 28/2022
 3. https://github.com/XINSDEATH/discord-bots
 
 
- coming soon tools~~~   
+ coming soon~~~   
 ---------------------------------------|
 working on a new tool (better roblox) will be released on january 28!
 working on a discord token gen (i dont know when ill finish it)
 working on a discord token manager (estiamte, will take (1 day-1 week))
-and alot more tools coming soon....
+
+THE COMING SOON STUFF CAN BE DELAYED
+
+and alot more stuff coming soon....
 
 
 
