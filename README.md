@@ -24,8 +24,8 @@ speaking language: english
 my top 3 repo's (CURRENTLY OF JANUARY 28/2022
 ---------------------------------|
 1. https://github.com/XINSDEATH/XINS-STUB-MAKER
-2. https://github.com/XINSDEATH/discord-tools
-3. https://github.com/XINSDEATH/discord-bots
+2. https://github.com/XINSDEATH/keysystem
+3. https://github.com/XINSDEATH/discord-tools
 
 
  coming soon~~~   
@@ -33,7 +33,6 @@ my top 3 repo's (CURRENTLY OF JANUARY 28/2022
 working on a new tool (better roblox) will be released soon
 working on a discord token gen (i dont know when ill finish it)
 working on a discord token manager (estiamte, will take (1 day-3 months))
-working on a key system to lock your python codes with keys 2/6/2022
 
 THE COMING SOON STUFF CAN BE DELAYED
 
