@@ -1,4 +1,5 @@
 # ABOUT ME 
+# GET MY PAID TOOLS https://github.com/XINSDEATH/XINSDEATH/blob/main/paid-tools.md
 # JOIN MY DISCORD SERVER! https://discord.gg/4cGQxfeWm9
 # MY GITHUB GROUP ~ https://github.com/XINSCOLAB
 # MY SELLIX https://sellix.io/XINSELLS
