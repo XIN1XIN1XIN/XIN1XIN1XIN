@@ -32,8 +32,6 @@ my top 3 repo's
  coming soon~~~   
 ---------------------------------------|
 working on a roblox mass report tool ( COMING VERY SOON )
-working on a discord token gen (i dont know when ill finish it)
-working on a discord token manager (estiamte, will take (1 day-3 months))
 
 THE COMING SOON STUFF CAN BE DELAYED
 
