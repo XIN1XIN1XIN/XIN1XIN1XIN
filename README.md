@@ -23,14 +23,14 @@ speaking language: english
 
 my top 3 repo's 
 ---------------------------------|
-1. https://github.com/XINSDEATH/XINS-STUB-MAKER
+1. https://github.com/XINSDEATH/keysystem-paidversion
 2. https://github.com/XINSDEATH/keysystem
 3. https://github.com/XINSDEATH/discord-tools
 
 
  coming soon~~~   
 ---------------------------------------|
-working on a new tool (better roblox) will be released soon
+working on a roblox mass report tool ( COMING VERY SOON )
 working on a discord token gen (i dont know when ill finish it)
 working on a discord token manager (estiamte, will take (1 day-3 months))
 
