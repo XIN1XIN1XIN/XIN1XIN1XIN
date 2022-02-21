@@ -9,7 +9,7 @@
 
 social medias~~~  
 ---------------------------------------|
-discord: XIN#0002
+discord: XIN#7744
 telegram: XINSOLOS
 roblox: XINSDEATH
 
