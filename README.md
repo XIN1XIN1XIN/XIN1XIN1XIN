@@ -28,13 +28,6 @@ my top 3 repo's
 3. https://github.com/XINSDEATH/discord-tools
 
 
- coming soon~~~   
----------------------------------------|
-working on a roblox mass report tool ( COMING VERY SOON )
-
-THE COMING SOON STUFF CAN BE DELAYED
-
-and alot more stuff coming soon....
 
 
 
