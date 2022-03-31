@@ -1,15 +1,14 @@
 # ABOUT ME 
 # GET MY PAID TOOLS https://github.com/XINSDEATH/XINSDEATH/blob/main/paid-tools.md
-# JOIN MY DISCORD SERVER! https://discord.gg/4cGQxfeWm9
+# JOIN MY DISCORD SERVER! https://discord.gg/tRU5wGmFg9
 # MY GITHUB GROUP ~ https://github.com/XINSCOLAB
-# MY SELLIX https://sellix.io/XINSELLS
 
 **all of my tools require python even the obfustucated ones too.**
 
 
 social medias~~~  
 ---------------------------------------|
-discord: XIN#7744
+discord: XIN#2786
 telegram: XINSOLOS
 roblox: XINSDEATH
 
