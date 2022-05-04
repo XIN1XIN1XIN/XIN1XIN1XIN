@@ -1,5 +1,5 @@
 # ABOUT ME 
-# JOIN MY DISCORD SERVER! https://discord.gg/tRU5wGmFg9
+# JOIN MY DISCORD SERVER! https://discord.gg/Xrj5zF4j6P
 # MY GITHUB GROUP ~ https://github.com/XINSCOLAB
 
 **all of my tools require python even the obfustucated ones too.**
@@ -7,9 +7,9 @@
 
 social medias~~~  
 ---------------------------------------|
-discord: XIN#2786
+discord: XIN#4090
 telegram: XINSOLOS
-roblox: XINSDEATH
+roblox: X2INS
 
 
 language,name,etc~   
