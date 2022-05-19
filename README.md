@@ -1,5 +1,5 @@
 # ABOUT ME 
-# JOIN MY DISCORD SERVER! https://discord.gg/Xrj5zF4j6P
+# MY LINKS -> https://beacons.ai/XINSDEATH
 # MY GITHUB GROUP ~ https://github.com/XINSCOLAB
 
 **all of my tools require python even the obfustucated ones too.**
