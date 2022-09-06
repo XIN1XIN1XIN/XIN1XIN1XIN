@@ -1,5 +1,4 @@
 # ABOUT ME 
-# MY LINKS -> https://beacons.ai/XINSDEATH
 # MY GITHUB GROUP ~ https://github.com/XINSCOLAB
 
 **all of my tools require python even the obfustucated ones too.**
@@ -7,7 +6,7 @@
 
 social medias~~~  
 ---------------------------------------|
-discord: XIN#0009
+discord: XIN#6814
 telegram: XINSOLOS
 roblox: X2INS
 
