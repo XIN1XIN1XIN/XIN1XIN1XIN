@@ -1,19 +1,15 @@
 # ABOUT ME 
-# MY GITHUB GROUP ~ https://github.com/XINSCOLAB
-
-**all of my tools require python even the obfustucated ones too.**
-
 
 social medias~~~  
 ---------------------------------------|
-discord: XIN#0001
+discord: XIN#1166
 telegram: XINSOLOS
 roblox: X2INS
 
 
 language,name,etc~   
 ---------------------------------------|
-coding language: python
+coding languages: python, html, css, js, lua
 name: XIN
 speaking language: english
 
