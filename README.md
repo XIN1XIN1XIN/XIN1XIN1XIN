@@ -2,7 +2,7 @@
 
 social medias~~~  
 ---------------------------------------|
-discord: XIN#1166
+discord: XIN#0001
 telegram: XINSOLOS
 roblox: X2INS
 
