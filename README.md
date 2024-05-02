@@ -2,7 +2,7 @@
 
 social medias
 ---------------------------------------|
-discord: dabestxin
+discord: xindabest
 telegram: xindabest
 roblox: X2INS
 
